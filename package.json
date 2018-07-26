@@ -1,0 +1,23 @@
+{
+  "name": "ycombinator-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JFigueroa8/ycombinator-scraper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JFigueroa8/ycombinator-scraper/issues"
+  },
+  "homepage": "https://github.com/JFigueroa8/ycombinator-scraper#readme",
+  "dependencies": {
+    "puppeteer": "^1.6.1"
+  }
+}
